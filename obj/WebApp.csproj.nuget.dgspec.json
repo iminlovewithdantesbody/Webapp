@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oliver\\desktop\\programeringprojekt\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Oliver\\desktop\\programeringprojekt\\Webapp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oliver\\desktop\\programeringprojekt\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Oliver\\desktop\\programeringprojekt\\Webapp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\Webapp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\Webapp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Oliver\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Oliver\\desktop\\programeringprojekt\\Webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oliver\\AppData\\Roaming\\NuGet\\NuGet.Config",
